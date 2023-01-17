@@ -1,0 +1,57 @@
+const express = require('express')
+const authRoutes = require('./auth.route')
+const usersRoutes = require('./users.route')
+const settingsRoutes = require('./settings.route')
+const faqRoutes = require('./faq.route')
+const contactRoutes = require('./contact.route')
+const addressBookRoutes = require('./addressBook.route')
+const securityRoutes = require('./security.route')
+const kycRoutes = require('./kyc.route')
+const requestRoutes = require('./request.route')
+const walletRoutes = require('./wallet.route')
+const cmsRoutes = require('./cms.route')
+const footerRoutes = require('./footer.route')
+const promoCodeRoutes = require("./promoCode.route")
+const stakesRoutes = require("./stake.route")
+const currencyCap = require('./currencyCap.route')
+const criteriaRoutes = require('./criteria.route')
+const accountLevels = require('./accountLevels.route')
+const historyRoutes = require('./history.route')
+const wireRequestRoutes = require('./wirerequest.route')
+const withdrawRequestRoutes = require("./withdrawRequest.route")
+
+const router = express.Router()
+const { uploadToCloudinary, cpUpload } = require('../../../utils/upload')
+/**
+ * GET v1/status
+ */
+router.use('/auth', authRoutes)
+router.use('/users', usersRoutes)
+router.use('/settings', settingsRoutes)
+router.use('/faq', faqRoutes)
+router.use('/contact', contactRoutes)
+router.use('/address', addressBookRoutes)
+router.use('/security', securityRoutes)
+router.use('/kyc', kycRoutes)
+router.use('/request', requestRoutes)
+router.use('/wallet', walletRoutes)
+router.use('/cms', cmsRoutes)
+router.use('/footer', footerRoutes)
+router.use('/promocode', promoCodeRoutes)
+router.use('/currencyCap', currencyCap)
+router.use('/account-levels', accountLevels)
+router.use('/stake', stakesRoutes)
+router.use('/criteria', criteriaRoutes)
+router.use('/history', historyRoutes)
+router.use('/wirerequests', wireRequestRoutes)
+router.use('/withdrawrequest', withdrawRequestRoutes)
+router.use('/test', cpUpload, async (req, res) => {
+    const url = []
+    const { path } = req.files.image[0];
+    const newPath = await uploadToCloudinary(path)
+    url.push(newPath)
+
+    res.status(200).json({ data: url, message: "image upload successfully" })
+})
+
+module.exports = router

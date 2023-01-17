@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_308" data-name="Ellipse 308" cx="11.5" cy="11.5" r="11.5" transform="translate(-0.277 -0.278)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_413" x="-235" y="-13" width="493" height="284" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3782" data-name="Group 3782" transform="translate(-503.722 -636.722)">
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(504 637)" opacity="0.144" clip-path="url(#clip-path)">
+      <g transform="matrix(1, 0, 0, 1, -0.28, -0.28)" filter="url(#Rectangle_413)">
+        <rect id="Rectangle_413-2" data-name="Rectangle 413" width="445" height="236" rx="10" transform="translate(-211 8)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Icon_ionic-ios-move" data-name="Icon ionic-ios-move" d="M12.006,6.958,10.258,5.21a.306.306,0,0,0-.431,0l0,0a.306.306,0,0,0,0,.431L11.03,6.855l-3.562.011L7.479,3.3,8.688,4.513a.306.306,0,0,0,.431,0l0,0a.306.306,0,0,0,0-.431L7.376,2.329a.306.306,0,0,0-.431,0L5.2,4.077a.306.306,0,0,0,0,.431l0,0a.306.306,0,0,0,.431,0L6.841,3.3l.011,3.562L3.29,6.855,4.5,5.646a.306.306,0,0,0,0-.431l0,0a.306.306,0,0,0-.431,0L2.315,6.958a.306.306,0,0,0,0,.431L4.063,9.138a.306.306,0,0,0,.431,0l0,0a.306.306,0,0,0,0-.431L3.29,7.493l3.562-.011-.011,3.562L5.632,9.836a.306.306,0,0,0-.431,0l0,0a.306.306,0,0,0,0,.431L6.944,12.02a.306.306,0,0,0,.431,0l1.748-1.748a.306.306,0,0,0,0-.431l0,0a.306.306,0,0,0-.431,0L7.479,11.044,7.468,7.482l3.562.011L9.822,8.7a.306.306,0,0,0,0,.431l0,0a.306.306,0,0,0,.431,0L12.006,7.39A.3.3,0,0,0,12.006,6.958Z" transform="translate(507.856 644.257)" fill="#1fd3a4"/>
+  </g>
+</svg>

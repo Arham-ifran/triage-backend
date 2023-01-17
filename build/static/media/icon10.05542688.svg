@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="16" viewBox="0 0 22 16">
+  <g id="Group_3771" data-name="Group 3771" transform="translate(-12795.947 445.318)">
+    <g id="Rectangle_405" data-name="Rectangle 405" transform="translate(12795.947 -445.318)" fill="none" stroke="#6d80c4" stroke-width="1">
+      <rect width="22" height="16" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="15" rx="0.5" fill="none"/>
+    </g>
+    <g id="Group_3783" data-name="Group 3783" transform="translate(0.387 -0.362)">
+      <g id="Icon_feather-user" data-name="Icon feather-user" transform="translate(12798.782 -441.068)">
+        <path id="Path_4132" data-name="Path 4132" d="M10.892,24.1v-.533A1.153,1.153,0,0,0,9.669,22.5H7.223A1.153,1.153,0,0,0,6,23.566V24.1" transform="translate(-6 -18.595)" fill="none" stroke="#6d80c4" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+        <path id="Path_4133" data-name="Path 4133" d="M15.017,6.009A1.509,1.509,0,1,1,13.509,4.5,1.509,1.509,0,0,1,15.017,6.009Z" transform="translate(-11.063 -4.943)" fill="none" stroke="#6d80c4" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      </g>
+      <path id="Path_4137" data-name="Path 4137" d="M12802.158-414.467h9.765" transform="translate(3.767 -26.488)" fill="none" stroke="#6d80c4" stroke-width="0.7"/>
+      <path id="Path_4143" data-name="Path 4143" d="M12802.158-414.467h6.434" transform="translate(6.743 -20.084)" fill="none" stroke="#6d80c4" stroke-width="0.7"/>
+      <path id="Path_4146" data-name="Path 4146" d="M12802.154-414.467h6.434" transform="translate(6.746 -17.703)" fill="none" stroke="#6d80c4" stroke-width="0.7"/>
+      <path id="Path_4138" data-name="Path 4138" d="M12802.157-414.467h5.952" transform="translate(3.767 -24.845)" fill="none" stroke="#6d80c4" stroke-width="0.7"/>
+      <path id="Path_4140" data-name="Path 4140" d="M12802.157-414.467h1.86" transform="translate(5.643 -23.741)" fill="none" stroke="#6d80c4" stroke-width="0.7"/>
+      <path id="Path_4141" data-name="Path 4141" d="M12802.157-414.467h1.86" transform="translate(8.594 -23.741)" fill="none" stroke="#6d80c4" stroke-width="0.7"/>
+      <path id="Path_4142" data-name="Path 4142" d="M12802.157-414.467h1.86" transform="translate(11.316 -23.741)" fill="none" stroke="#6d80c4" stroke-width="0.7"/>
+      <path id="Path_4135" data-name="Path 4135" d="M12802.157-414.467h5.113" transform="translate(-3.597 -17.703)" fill="none" stroke="#6d80c4" stroke-width="0.7"/>
+    </g>
+  </g>
+</svg>

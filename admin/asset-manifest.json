@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/admin/static/css/main.928f0f56.chunk.css",
+    "main.js": "/admin/static/js/main.05a9125b.chunk.js",
+    "main.js.map": "/admin/static/js/main.05a9125b.chunk.js.map",
+    "runtime-main.js": "/admin/static/js/runtime-main.f47790b0.js",
+    "runtime-main.js.map": "/admin/static/js/runtime-main.f47790b0.js.map",
+    "static/css/2.444a991a.chunk.css": "/admin/static/css/2.444a991a.chunk.css",
+    "static/js/2.94508751.chunk.js": "/admin/static/js/2.94508751.chunk.js",
+    "static/js/2.94508751.chunk.js.map": "/admin/static/js/2.94508751.chunk.js.map",
+    "index.html": "/admin/index.html",
+    "static/css/2.444a991a.chunk.css.map": "/admin/static/css/2.444a991a.chunk.css.map",
+    "static/css/main.928f0f56.chunk.css.map": "/admin/static/css/main.928f0f56.chunk.css.map",
+    "static/js/2.94508751.chunk.js.LICENSE.txt": "/admin/static/js/2.94508751.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/admin/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/light-bootstrap-dashboard-pro-react.scss?v=2.0.0": "/admin/static/media/nucleo-icons.e8827b8a.svg",
+    "static/media/upload.e05e3167.svg": "/admin/static/media/upload.e05e3167.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f47790b0.js",
+    "static/css/2.444a991a.chunk.css",
+    "static/js/2.94508751.chunk.js",
+    "static/css/main.928f0f56.chunk.css",
+    "static/js/main.05a9125b.chunk.js"
+  ]
+}

@@ -1,0 +1,20 @@
+<svg id="Group_3783" data-name="Group 3783" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_308" data-name="Ellipse 308" cx="11.5" cy="11.5" r="11.5" fill="#56d0f7"/>
+    </clipPath>
+    <filter id="Rectangle_413" x="-235" y="-242" width="493" height="284" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_413)">
+      <rect id="Rectangle_413-2" data-name="Rectangle 413" width="445" height="236" rx="10" transform="translate(-211 -221)" fill="#56d0f7"/>
+    </g>
+  </g>
+  <path id="Icon_ionic-ios-move" data-name="Icon ionic-ios-move" d="M8.617,4.845,5.985,2.389a.511.511,0,0,0-.722,0L5.256,2.4a.511.511,0,0,0,0,.722l2.9,2.84a.673.673,0,0,0,.845,0l2.819-2.84a.511.511,0,0,0,0-.722l-.007-.007a.516.516,0,0,0-.722,0C10.9,2.582,8.617,4.845,8.617,4.845Z" transform="translate(2.754 5.326)" fill="#fff"/>
+</svg>
